@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-03-13T17:18:04.078159",
+            "datePublished": "2026-02-19T19:21:06.306153",
             "hasPart": [
                 {
                     "@id": "Velocyto-on10X-from-bundled.ga"
@@ -46,10 +46,10 @@
             },
             "mentions": [
                 {
-                    "@id": "#test_Velocyto-on10X-from-bundled_1"
+                    "@id": "#test_Velocyto-on10X-filtered-barcodes_1"
                 },
                 {
-                    "@id": "#test_Velocyto-on10X-filtered-barcodes_1"
+                    "@id": "#test_Velocyto-on10X-from-bundled_1"
                 }
             ],
             "name": "velocyto/Velocyto-on10X-from-bundled"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/velocyto",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -147,7 +147,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.21"
+            "engineVersion": ">=0.75.37"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
@@ -174,7 +174,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/velocyto",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#test_Velocyto-on10X-filtered-barcodes_1",
@@ -211,7 +211,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.21"
+            "engineVersion": ">=0.75.37"
         }
     ]
 }
